@@ -138,7 +138,8 @@ function extractPlaylistVideos(element) {
         // Videos in a playlist panel
         "ytd-playlist-panel-video-renderer.style-scope.ytd-playlist-panel-renderer",
         // NEW: Updated structure uses yt-lockup-view-model inside ytd-rich-item-renderer
-        "yt-lockup-view-model.ytd-rich-item-renderer.lockup"
+        "yt-lockup-view-model.ytd-rich-item-renderer.lockup",
+        "yt-lockup-view-model.ytLockupViewModelWrapper"
     );
 }
 
